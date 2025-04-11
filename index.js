@@ -47,7 +47,7 @@ var Typer = {
 <span>- <a href="https://leetcode.com/u/santasingh/" target="_blank">LeetCode</a> 👨‍💻</span>
 
     🌟 Looking for Opportunities:
-    <span>I’m actively exploring roles and opportunities where I can work on challenging and innovative projects.  
+    <span>I’m actively exploring backend-focused roles and opportunities where I can work on challenging and innovative projects.  
     </span>
     <span> 📩 Reach me: <!-- longlonglongcomment --><a href="mailto:scionsn99@@gmail.com"> scionsn99@gmail.com</a>
     📜 [Download Resume](<a href="https://drive.google.com/file/d/1PeRYHq8Ofb7TqK3goIxYCc1I5dlJC8kz/view?usp=sharing" target="_blank">here</a>)   </span>
